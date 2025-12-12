@@ -1,31 +1,98 @@
-<h1 align="center">Hi 👋, I'm Maleesha Shavindi</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+<h1 align="center">Hi, I'm Maleesha Shavindi</h1>
+<h3 align="center">Final-year IT Undergraduate | Full-Stack Developer | Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maleesha-shavindi&label=Profile%20views&color=0e75b6&style=flat" alt="maleesha-shavindi" /> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **maleeshashavindi@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maleesha-shavindi-57118b207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maleesha-shavindi-57118b207" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maleesha-shavindi&label=Profile%20views&color=0e75b6&style=flat" alt="maleesha-shavindi" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-![](https://github-readme-stats.vercel.app/api?username=Maleesha-Shavindi&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maleesha-Shavindi&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleesha-Shavindi&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maleesha-Shavindi&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
 
+## Professional Summary
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a passionate and detail-oriented **Full-Stack Developer** from Sri Lanka, currently a **final-year BSc (Hons) Information Technology undergraduate at SLIIT**.  
+I have hands-on experience in building **scalable web applications**, working with **modern frontend frameworks, backend APIs, and databases**, and collaborating in **Agile development environments**.
+
+I am continuously improving my skills in **React-based frontend development**, while maintaining a strong foundation in **Java and backend engineering**.
+
+---
+
+## Current Focus
+
+- Learning and building projects with **React.js**
+- Strengthening **full-stack architecture** knowledge
+- Improving code quality, testing practices, and UI/UX design
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Java  
+- JavaScript  
+- Python  
+- C, C++  
+
+### Frontend Development
+- React.js  
+- HTML5, CSS3  
+- Bootstrap  
+- Tailwind CSS  
+
+### Backend Development
+- Node.js  
+- Express.js  
+- Spring Boot  
+- PHP  
+
+### Databases
+- MySQL  
+- MongoDB  
+- Firebase  
+
+### Tools & Platforms
+- Git & GitHub  
+- Firebase Authentication  
+- Postman  
+- Figma (UI/UX Design)  
+- Android Studio  
+- Oracle Database  
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maleesha-Shavindi&theme=react&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleesha-Shavindi&theme=react&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleesha-Shavindi&theme=react&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Maleesha-Shavindi&limit=5&theme=nord&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## Contact Information
+
+- Email: **maleeshashavindi@gmail.com**
+- LinkedIn: [linkedin.com/in/maleesha-shavindi-57118b207](https://linkedin.com/in/maleesha-shavindi-57118b207)
+
+---
+
+## Career Objective
+
+To secure opportunities in **Software Engineering / Full-Stack Development** where I can apply my technical skills, grow professionally, and contribute to building reliable, high-quality software solutions.
+
+---
+
+<p align="center">
+  <i>Actively learning • Consistently building • Open to opportunities</i>
+</p>
